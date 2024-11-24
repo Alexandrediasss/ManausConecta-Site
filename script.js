@@ -1,3 +1,3 @@
 document.getElementById("btDownload").addEventListener("click",function (){
-    window.location.href = "apk/ManausConecta.apk"
+    window.location.href = "apk/novamanaus.apk"
 });
